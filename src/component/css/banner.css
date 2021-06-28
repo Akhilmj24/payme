@@ -1,0 +1,23 @@
+.banner-conatiner {
+  height: 300px;
+  width: 100%;
+  background: linear-gradient(
+      rgba(35, 117, 239, 0.95),
+      rgba(14, 36, 138, 0.918)
+    ),
+    url("../../hero-bg.jpg");
+  text-align: center;
+}
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+.banner-conatiner h1 {
+  padding: 22px;
+  letter-spacing: 2px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 700;
+}
+.banner-conatiner p {
+ padding:0px 200px;
+ font-size:18px ;
+ line-height: 25px;
+  
+}
